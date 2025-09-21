@@ -28,4 +28,11 @@ public class Opgave02 {
                 " op, nej, jeg har ikke alle! det største æg ligger der endnu; hvor længe skal det vare! nu er " +
                 "jeg snart ked af det! og så lagde hun sig igen.").toCharArray();
     }
+
+  /*  private static int[] vokalerMethode(char[] characterArray) {
+        char[] voklar = {'a','e','i','o','u','y','æ','ø','å'};
+
+        for (char c: characterArray);
+
+    }*/
 }
